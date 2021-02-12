@@ -4,8 +4,8 @@ Demo project before deployment \
 1.In this project, Docker  was used to create, \
 package and deploy this new program and place it inside a container.
 
-It works on Linux, Windows.
-I you to use [SublimeText], [VSCode].
+It works on Linux, Windows
+and as a code editor was used [SublimeText], [VSCode].
 
 # Task 1
 
