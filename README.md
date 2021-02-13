@@ -5,7 +5,7 @@ Demo project before deployment \
 package and deploy this new program and place it inside a container.
 
 It works on Linux, Windows
-and as an editor was used  [SublimeText], [VSCode].
+and as an code editor was used  [SublimeText], [VSCode].
 
 # Task 1
 
